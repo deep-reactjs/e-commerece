@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Login
+          dashboard
         </a>
       </header>
     </div>
